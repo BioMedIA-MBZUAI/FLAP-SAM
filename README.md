@@ -2,4 +2,4 @@
 
 The work is submitted to DeCaF Workshop in MICCAI 2024 and is still under review. 
 
-Code will be made public soon.
+Full Code will be made public soon.
